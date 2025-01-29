@@ -1,0 +1,3 @@
+Hello world.
+First test of txt file while using terminal with git and git hub.
+Odin project day 29/01/25
